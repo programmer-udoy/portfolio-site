@@ -1,0 +1,49 @@
+.sidebar-style{
+    background-color: rgba(122, 29, 202, 0.829);
+    width: 270px;
+    top: 0px;
+  
+  }
+  .menu-stye i{
+  
+      color: white;
+      text-align: center;
+      font-size: large;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  .link-style {
+  
+      text-decoration: none;
+      color: white;
+      margin-left:auto ;
+      margin-right: auto;
+      display: block;
+      text-align: center;
+  }
+  
+  
+  .name-style{
+  position: absolute;
+  bottom: 0px;
+  width: 270px;
+  margin-bottom: 0%;
+  opacity: 0.7;
+  text-align: center;
+  line-height: 40px;
+  font-size: large;
+  font-weight: 900;
+    color: aqua;
+    background-color: rgb(34, 34, 3);
+  }
+  .image-container{
+  
+      position: relative;
+  }
+  .social-media-style i{
+      
+      margin-left: 20%;
+     
+  }
+ 
